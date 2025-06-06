@@ -1,0 +1,2 @@
+MONGODB_URI=mongodb://localhost:27017/realestate
+PORT=5000
